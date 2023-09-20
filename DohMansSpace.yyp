@@ -34,6 +34,7 @@
     "IDEVersion": "2023.8.1.102",
   },
   "resources": [
+    {"id":{"name":"PS_Exhuast","path":"particles/PS_Exhuast/PS_Exhuast.yy",},},
     {"id":{"name":"OBJ_PlayerShip","path":"objects/OBJ_PlayerShip/OBJ_PlayerShip.yy",},},
     {"id":{"name":"S_PlayerShip","path":"sprites/S_PlayerShip/S_PlayerShip.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
