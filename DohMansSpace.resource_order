@@ -16,5 +16,8 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"OBJ_Laser","order":1,"path":"objects/OBJ_Laser/OBJ_Laser.yy",},
+    {"name":"S_Laser","order":1,"path":"sprites/S_Laser/S_Laser.yy",},
+  ],
 }

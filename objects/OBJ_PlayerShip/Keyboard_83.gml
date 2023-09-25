@@ -1,1 +1,1 @@
-speed = speed/braking_accel;
+motion_add(270,acceleration);
