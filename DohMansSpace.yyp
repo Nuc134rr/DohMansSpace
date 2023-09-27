@@ -41,6 +41,7 @@
     {"id":{"name":"OBJ_Laser","path":"objects/OBJ_Laser/OBJ_Laser.yy",},},
     {"id":{"name":"S_PlayerShip","path":"sprites/S_PlayerShip/S_PlayerShip.yy",},},
     {"id":{"name":"GM_DMSGM","path":"objects/GM_DMSGM/GM_DMSGM.yy",},},
+    {"id":{"name":"OBJ_EnemySpawner","path":"objects/OBJ_EnemySpawner/OBJ_EnemySpawner.yy",},},
     {"id":{"name":"S_Laser","path":"sprites/S_Laser/S_Laser.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],

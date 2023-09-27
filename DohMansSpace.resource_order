@@ -21,6 +21,7 @@
     {"name":"S_DefaultEnemy","order":2,"path":"sprites/S_DefaultEnemy/S_DefaultEnemy.yy",},
     {"name":"OBJ_Laser","order":1,"path":"objects/OBJ_Laser/OBJ_Laser.yy",},
     {"name":"GM_DMSGM","order":3,"path":"objects/GM_DMSGM/GM_DMSGM.yy",},
+    {"name":"OBJ_EnemySpawner","order":4,"path":"objects/OBJ_EnemySpawner/OBJ_EnemySpawner.yy",},
     {"name":"S_Laser","order":1,"path":"sprites/S_Laser/S_Laser.yy",},
   ],
 }
