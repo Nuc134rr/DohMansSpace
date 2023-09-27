@@ -7,8 +7,6 @@ spawn_x= lengthdir_x(32,image_angle);
 spawn_y= lengthdir_y(32,image_angle);
 
 
-
-
 /*part_system_position(exhuast_particle_right,x-32,y+32);
 part_system_position(exhuast_particle_left,x-32,y-32);
 */
