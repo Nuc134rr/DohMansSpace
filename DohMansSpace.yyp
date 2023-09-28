@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"PS_Exhuast","path":"particles/PS_Exhuast/PS_Exhuast.yy",},},
     {"id":{"name":"OBJ_BaseEnemy","path":"objects/OBJ_BaseEnemy/OBJ_BaseEnemy.yy",},},
+    {"id":{"name":"OBJ_EnemyLaser","path":"objects/OBJ_EnemyLaser/OBJ_EnemyLaser.yy",},},
     {"id":{"name":"S_DefaultEnemy","path":"sprites/S_DefaultEnemy/S_DefaultEnemy.yy",},},
     {"id":{"name":"OBJ_PlayerShip","path":"objects/OBJ_PlayerShip/OBJ_PlayerShip.yy",},},
     {"id":{"name":"OBJ_Laser","path":"objects/OBJ_Laser/OBJ_Laser.yy",},},

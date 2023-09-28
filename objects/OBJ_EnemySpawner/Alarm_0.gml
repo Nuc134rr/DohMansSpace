@@ -1,10 +1,10 @@
-enemies_spawned += enemies_spawned + 1;
+enemies_spawned = enemies_spawned + 1;
 random_y = irandom(room_height);
 random_x = irandom(room_width);
 random_side = irandom(3);
 if (enemies_spawned < GM_DMSGM.enemy_numbers)
 {
-switch(random_side)
+	switch(random_side)
 	{
 		case 0: 
 			instance_create_layer(-60, random_y, "Instances", OBJ_BaseEnemy);

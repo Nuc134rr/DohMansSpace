@@ -1,11 +1,11 @@
-function ScaleEnemies(wave)
+function ScaleEnemies()
 {
-	wave += wave +1;
-	enemy_numbers = (1.15^wave);
-	enemy_health = (1.15^wave);
-	enemy_damage = (1.15^wave);
-	enemy_speed = (1.15^wave);
-	spawn_rate = (5*0.9^wave);
+	enemy_numbers = enemy_numbers*wave;
+	enemy_health = enemy_health*wave;
+	enemy_damage = enemy_damage*wave;
+	enemy_speed = enemy_speed*wave;
+	enemy_firerate = enemy_firerate*wave;
+	enemy_laser_speed = enemy_laser_speed*wave;
 }
 /*god i dont want to code all of this but i know how to 
 do it i swear*/

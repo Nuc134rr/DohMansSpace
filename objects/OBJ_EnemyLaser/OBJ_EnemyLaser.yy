@@ -1,11 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "OBJ_Laser",
+  "name": "OBJ_EnemyLaser",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"OBJ_BaseEnemy","path":"objects/OBJ_BaseEnemy/OBJ_BaseEnemy.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],

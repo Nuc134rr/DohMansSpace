@@ -18,6 +18,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"OBJ_BaseEnemy","order":2,"path":"objects/OBJ_BaseEnemy/OBJ_BaseEnemy.yy",},
+    {"name":"OBJ_EnemyLaser","order":5,"path":"objects/OBJ_EnemyLaser/OBJ_EnemyLaser.yy",},
     {"name":"S_DefaultEnemy","order":2,"path":"sprites/S_DefaultEnemy/S_DefaultEnemy.yy",},
     {"name":"OBJ_Laser","order":1,"path":"objects/OBJ_Laser/OBJ_Laser.yy",},
     {"name":"GM_DMSGM","order":3,"path":"objects/GM_DMSGM/GM_DMSGM.yy",},
