@@ -5,6 +5,7 @@ part_system_position(exhuast_particle_right,x-32,y+32);
 */
 function EnemyKilled()
 {
+	score = score + 1;
 	enemies_killed = enemies_killed +1;
 	if(enemies_killed + 1 = GM_DMSGM.enemy_numbers)
 	{
