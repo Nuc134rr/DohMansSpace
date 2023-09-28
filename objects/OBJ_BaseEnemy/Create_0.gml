@@ -1,5 +1,4 @@
 //make local variables for stats
-show_debug_message("spawned enemy");
 enemy_health = GM_DMSGM.enemy_health;
 enemy_damage = GM_DMSGM.enemy_damage;
 enemy_speed = GM_DMSGM.enemy_speed;
