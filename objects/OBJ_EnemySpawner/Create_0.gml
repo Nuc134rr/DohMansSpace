@@ -8,3 +8,4 @@ if(GM_DMSGM.wave != 0)
 enemies_spawned = 0;
 alarm[0] = (fps *GM_DMSGM.spawn_rate);
 }
+SpawnEnemies();

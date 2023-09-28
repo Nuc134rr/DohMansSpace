@@ -1,0 +1,4 @@
+function OnClick()
+{
+	exit;
+}
